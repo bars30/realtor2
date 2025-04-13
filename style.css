@@ -524,7 +524,7 @@ ol li::before {
  background-color: var(--white);
 }
 .contact {
- width: 74%;
+ width: 80%;
  margin: auto;
  border-radius: 20px;
  display: flex;
